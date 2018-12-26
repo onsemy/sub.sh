@@ -340,6 +340,8 @@ github-pull \
 
 # "rg" is a short-term for "ripgrep", which is a "grep" alternative.
 
+set -x
+
 install_rg() {
   # Detect the latest and installed version.
   info "Detecting the latest version of rg..."
