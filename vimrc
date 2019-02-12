@@ -242,3 +242,7 @@ au FileType go nmap got <Plug>(go-test-func)
 au FileType go nmap goT <Plug>(go-test)
 " YCM's goto is better.
 let g:go_def_mapping_enabled = 0
+
+" Misc
+nn <Esc><Esc> :noh<CR>
+imap jj <Esc>
