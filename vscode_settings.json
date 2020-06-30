@@ -1,0 +1,37 @@
+{
+    "git.path": "D:\\Developments\\Environments\\cmder\\vendor\\git-for-windows\\bin\\git.exe",
+    "svn.path": "C:\\Program Files\\TortoiseSVN\\bin\\svn.exe",
+    "window.zoomLevel": 0,
+    "vim.vimrc.path": "C:\\Users\\CLI-02\\_vimrc",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "python.jediEnabled": false,
+    "python.languageServer": "Microsoft",
+    "vim.insertModeKeyBindings": [
+        {
+            "before": ["j", "j"],
+            "after": ["<Esc>"]
+        }
+    ],
+    "vim.normalModeKeyBindingsNonRecursive": [
+        {
+            "before": [":"],
+            "commands": [
+                "workbench.action.showCommands",
+            ]
+        }
+    ],
+    "vim.handleKeys": {
+        "<C-a>": false,
+        "<C-f>": false,
+        "<C-c>": false,
+        "<C-v>": false,
+        "<C-x>": false,
+        "<C-o>": false,
+        "<C-h>": false,
+        "<C-n>": false,
+        "<C-w>": false,
+        "<C-r>": false,
+        "<C-p>": false
+    }
+}
