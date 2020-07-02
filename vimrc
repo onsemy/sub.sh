@@ -246,3 +246,5 @@ let g:go_def_mapping_enabled = 0
 " Misc
 nn <Esc><Esc> :noh<CR>
 imap jj <Esc>
+nn J 5j
+nn K 5k
